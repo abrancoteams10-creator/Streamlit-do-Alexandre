@@ -1,6 +1,6 @@
 # Streamlit-do-Alexandre
-st.title('')
+st.title('eu')
 
-st.write('')
+st.write('tu')
 
-st.image('')
+st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI57yuexOmIORrfT56OEKr-8dZng8liBcfzg&s')
