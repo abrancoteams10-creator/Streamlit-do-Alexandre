@@ -1,4 +1,6 @@
 # Streamlit-do-Alexandre
+import streamlit as st
+
 st.title('eu')
 
 st.write('tu')
